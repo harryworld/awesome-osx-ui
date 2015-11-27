@@ -101,7 +101,8 @@ Repo | Demo
 
 
 [harryworld]: https://github.com/harryworld
-[awesome-ios-ui]: https://github.com/cjwirth/awesome-ios-ui
+[cjwirth]: https://github.com/cjwirth
+[iOS Version]: https://github.com/cjwirth/awesome-ios-ui
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
 [BSD-2]: http://opensource.org/licenses/BSD-2-Clause
