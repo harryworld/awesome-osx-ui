@@ -91,6 +91,7 @@ User Input
 ==========
 Repo | Demo
 --- | ---
+[InfiniteScrollDial](https://github.com/konhondros/InfiniteScrollDialExample) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/InfiniteScrollDial.png">
 
 UI Frameworks
 =============
