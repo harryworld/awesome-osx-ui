@@ -1,5 +1,5 @@
 # awesome-osx-ui  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============
+================
 
 A curated list of awesome OSX UI/UX libraries
 Inspired by [cjwirth]'s excellent [iOS Version].
@@ -92,6 +92,7 @@ User Input
 Repo | Demo
 --- | ---
 [InfiniteScrollDial](https://github.com/konhondros/InfiniteScrollDialExample) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/InfiniteScrollDial.png">
+[MASShortcut 2.3.2](https://github.com/shpakovski/MASShortcut) <br> Language: Obj-C <br> License: [BSD-2][BSD-2] | <img src="/assets/MASShortcut.png">
 
 UI Frameworks
 =============
