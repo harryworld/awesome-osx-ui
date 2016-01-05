@@ -61,6 +61,7 @@ Progress Views
 ==============
 Repo | Demo
 --- | ---
+[LADSlider](https://github.com/Doshipak/LADSlider) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/LADSlider.png">
 
 
 RefreshControls
