@@ -11,6 +11,7 @@ Found a UI/UX library that you think is _awesome_?? Want to share it with the wo
 ### Index
 * [Animations and Transitions](#animations-and-transitions)
 * [Badges](#badges)
+* [Text](#text)
 * [Effects](#effects)
 * [Notifications and Alerts](#notifications-and-alerts)
 * [Onboarding and Tutorials](#onboarding-and-tutorials)
@@ -33,6 +34,13 @@ Badges
 ======
 Repo | Demo
 --- | ---
+
+
+Text
+======
+Repo | Demo
+--- | ---
+[NSLabel](https://github.com/lhecker/NSLabel) <br> Language: Obj-C <br> License: [MIT][MIT] | 
 
 
 Effects
