@@ -119,6 +119,7 @@ Repo | Demo
 [TwUI 0.2.0](https://github.com/twitter/twui) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] |
 [Rebel 0.4.2](https://github.com/github/Rebel) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] |
 [PureLayout 3.0.1](https://github.com/PureLayout/PureLayout) <br> Language: Obj-C <br> License: [MIT][MIT] |
+[Butter 0.2.0](https://github.com/ButterKit/Butter) <br> Language: Obj-C <br> License: [MIT][MIT] |
 
 
 [harryworld]: https://github.com/harryworld
