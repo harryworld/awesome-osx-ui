@@ -29,6 +29,8 @@ Animations and Transitions
 ==========================
 Repo | Demo
 --- | ---
+[SVGKit](https://github.com/MaddTheSane/SVGKit) <br> Language: Obj-C <br> License: [License](https://github.com/MaddTheSane/SVGKit/blob/master/LICENSE) | 
+[pop](https://github.com/facebook/pop) <br> Language: Obj-C <br> License: [BSD][BSD-2] | 
 
 
 Badges
