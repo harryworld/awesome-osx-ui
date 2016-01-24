@@ -45,6 +45,7 @@ Repo | Demo
 --- | ---
 [Calendar-OSX](https://github.com/gyetvan-andras/Calendar-OSX) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/Calendar-OSX.png">
 [SDFCalendarOSX](https://github.com/shaydesdsgn/SDFCalendarOSX) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/SDFCalendarOSX.png">
+[EDStarRating](https://github.com/erndev/EDStarRating) <br> Language: Obj-C <br> License: [BSD][BSD-2] | <img src="/assets/EDStarRating.png">
 
 Text
 ====
