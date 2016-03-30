@@ -81,6 +81,7 @@ Progress Views
 Repo | Demo
 --- | ---
 [LADSlider](https://github.com/Doshipak/LADSlider) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/LADSlider.png">
+[ProgressKit](https://github.com/kaunteya/ProgressKit) <br> Language: Swift <br>License: [MIT][MIT] | <img src="/assets/ProgressKit.gif">
 
 
 RefreshControls
